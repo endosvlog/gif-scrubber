@@ -1,3 +1,4 @@
+<img width="72" alt="icon" src="https://github.com/user-attachments/assets/c66439dc-e609-4d1a-82b8-88eaae208c74" />
 <meta property="og:image"
     content="https://raw.githubusercontent.com/0ui/gif-scrubber/master/img/icon-128.png"/>
 
